@@ -1,0 +1,66 @@
+ [
+    {
+        "id":"1",
+        "title": "Has escogido el camino de la gaga",
+        "description": "Explora este bosque antes de que anochezca...",
+        "question": "Que quieres hacer?",
+        "buttons":[
+            {
+                "id":"3",
+                "content":"Seguir"
+            },
+            {
+                "id":"4",
+                "content":"Volver"
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "title": "Has escogido el camino de la derecha",
+        "description": "Explora este bosque antes de que anochezca...",
+        "question": "Que quieres hacer?",
+        "buttons":[
+            {
+                "id":"4",
+                "content":"Dar marcha atras"
+            },
+            {
+                "id":"5",
+                "content":"Dar marcha adelante"
+            }
+        ]
+    },
+    {
+        "id":"3",
+        "title": "Has escogido seguir",
+        "description": "Explora este bosque antes de que anochezca...",
+        "question": "Que quieres hacer?",
+        "buttons":[
+            {
+                "id":"6",
+                "content":"Dar marcha atras"
+            },
+            {
+                "id":"7",
+                "content":"Dar marcha adelante"
+            }
+        ]
+    },
+    {
+        "id":"4",
+        "title": "Has escogido volver",
+        "description": "Explora este bosque antes de que anochezca...",
+        "question": "Que quieres hacer?",
+        "buttons":[
+            {
+                "id":"8",
+                "content":"Dar marcha atras"
+            },
+            {
+                "id":"9",
+                "content":"Dar marcha adelante"
+            }
+        ]
+    }
+]
